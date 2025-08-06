@@ -1,0 +1,4 @@
+Contact: mailto:devsecops@gruposimpli.com
+Expires: 2026-10-31T01:00:00Z
+Encryption: https://simpligroup.github.io/security/publickey.asc
+Preferred-Languages: en, es
